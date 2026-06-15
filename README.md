@@ -21,12 +21,3 @@ Projeto de convite digital de casamento desenvolvido com **HTML**, **CSS** e **J
 
 Criar uma landing page elegante e funcional para um convite digital de casamento, utilizando apenas tecnologias web nativas, com compatibilidade para diferentes tamanhos de tela.
 
-## 📸 Preview
-
-Adicione aqui uma captura de tela do projeto quando ele estiver publicado.
-
-## 🚀 Acesso
-
-Após ativar o GitHub Pages, o projeto poderá ser acessado pelo link:
-
-`https://seuusuario.github.io/convite-casamento/`
